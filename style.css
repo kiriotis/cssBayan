@@ -41,7 +41,7 @@ label {
 	box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.6);
 }
 .icon {
-	transition-duration: 500ms;
+	transition-duration: 400ms;
 
 
 	transform: rotate(45deg);
